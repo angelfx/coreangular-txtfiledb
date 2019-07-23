@@ -1,0 +1,92 @@
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <div *ngIf="dataModel.columns !== undefined">
+        <table class="table tab-content">
+          <tr>
+            <th>Имя столбца</th>
+            <th></th>
+          </tr>
+          <ng-template [ngIf]="!colsEdit" [ngIfElse]="editColumns">
+            <tr *ngFor="let c of dataModel.columns">
+              <td>{{c}}</td>
+            </tr>
+            <tr><td><button class="btn btn-primary" (click)="editCols()">Изменить</button></td></tr>
+          </ng-template>
+        </table>
+
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-12">
+      <hr />
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-12">
+      <div *ngIf="dataModel.data !== undefined">
+        <table class="table table-hover">
+          <tr>
+            <th *ngFor="let col of dataModel.columns">{{col}}</th>
+            <th></th>
+          </tr>
+          <tr *ngFor="let row of dataModel.data; let i = index">
+            <ng-template [ngIf]="rowIndex != i" [ngIfElse]="editRow">
+              <td *ngFor="let cell of row">{{cell}}</td>
+              <td>
+                <button class="btn btn-primary" (click)="editCurrentRow(i)">Изменить</button> |
+                <button class="btn btn-danger" (click)="removeRow(i)">Удалить</button>
+              </td>
+            </ng-template>
+          </tr>
+          <tr>
+            <ng-template [ngIf]="!addingRow" [ngIfElse]="addRow">
+              <td>
+                <button class="btn btn-primary" (click)="addingNewRow()">Добавить</button>
+              </td>
+            </ng-template>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<ng-template #editColumns>
+  <tr *ngFor="let c of dataModel.columns; let i=index; trackBy trackByFn">
+    <td><input type="text" class="form-control" [(ngModel)]="dataModel.columns[i]" /></td>
+  </tr>
+  <tr>
+    <td>
+      <button class="btn btn-success" (click)="saveCols()">
+        Сохранить
+      </button>
+      <button class="btn btn-danger" (click)="cancelEditCols()">Отмена</button>
+    </td>
+  </tr>
+</ng-template>
+
+<ng-template #editRow>
+  <td *ngFor="let c of editableRow; let i=index; trackBy trackByFn">
+    <input type="text" class="form-control" [(ngModel)]="editableRow[i]" />
+  </td>
+  <td>
+    <button class="btn btn-success" (click)="saveRow(editableRow)">
+      Сохранить
+    </button>
+    <button class="btn btn-danger" (click)="cancelEditRow()">Отмена</button>
+  </td>
+</ng-template>
+
+<ng-template #addRow>
+  <td *ngFor="let c of editableRow; let i=index; trackBy trackByFn">
+    <input type="text" class="form-control" [(ngModel)]="editableRow[i]" />
+  </td>
+  <td>
+    <button class="btn btn-success" (click)="addNewRow(editableRow)">
+      Сохранить
+    </button>
+    <button class="btn btn-danger" (click)="cancelAddNewRow()">Отмена</button>
+  </td>
+</ng-template>

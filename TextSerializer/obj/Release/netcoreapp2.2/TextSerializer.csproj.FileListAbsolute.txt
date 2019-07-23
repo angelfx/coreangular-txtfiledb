@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\FileReader\TextSerializer\bin\Release\netcoreapp2.2\TextSerializer.deps.json
+C:\Users\user\source\repos\FileReader\TextSerializer\bin\Release\netcoreapp2.2\TextSerializer.dll
+C:\Users\user\source\repos\FileReader\TextSerializer\bin\Release\netcoreapp2.2\TextSerializer.pdb
+C:\Users\user\source\repos\FileReader\TextSerializer\obj\Release\netcoreapp2.2\TextSerializer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FileReader\TextSerializer\obj\Release\netcoreapp2.2\TextSerializer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FileReader\TextSerializer\obj\Release\netcoreapp2.2\TextSerializer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FileReader\TextSerializer\obj\Release\netcoreapp2.2\TextSerializer.AssemblyInfo.cs
+C:\Users\user\source\repos\FileReader\TextSerializer\obj\Release\netcoreapp2.2\TextSerializer.dll
+C:\Users\user\source\repos\FileReader\TextSerializer\obj\Release\netcoreapp2.2\TextSerializer.pdb
