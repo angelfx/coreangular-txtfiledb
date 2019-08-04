@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/FileReader/v15/Server/sqlite3
+/.vs
+/TextSerializer/bin/Debug
+/TextSerializer/bin/Release

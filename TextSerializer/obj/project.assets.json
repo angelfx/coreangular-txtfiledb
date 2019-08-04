@@ -775,23 +775,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Users\\dima\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\VS\\angelfx\\coreangular-txtfiledb\\TextSerializer\\TextSerializer.csproj",
+      "projectUniqueName": "C:\\GitHub\\angelfx\\angelfx\\coreangular-txtfiledb\\TextSerializer\\TextSerializer.csproj",
       "projectName": "TextSerializer",
-      "projectPath": "D:\\GitHub\\VS\\angelfx\\coreangular-txtfiledb\\TextSerializer\\TextSerializer.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\VS\\angelfx\\coreangular-txtfiledb\\TextSerializer\\obj\\",
+      "projectPath": "C:\\GitHub\\angelfx\\angelfx\\coreangular-txtfiledb\\TextSerializer\\TextSerializer.csproj",
+      "packagesPath": "C:\\Users\\dima\\.nuget\\packages\\",
+      "outputPath": "C:\\GitHub\\angelfx\\angelfx\\coreangular-txtfiledb\\TextSerializer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dima\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

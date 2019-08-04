@@ -16,3 +16,12 @@ D:\GitHub\VS\angelfx\coreangular-txtfiledb\TextSerializer\obj\Debug\netcoreapp2.
 D:\GitHub\VS\angelfx\coreangular-txtfiledb\TextSerializer\obj\Debug\netcoreapp2.2\TextSerializer.AssemblyInfo.cs
 D:\GitHub\VS\angelfx\coreangular-txtfiledb\TextSerializer\obj\Debug\netcoreapp2.2\TextSerializer.dll
 D:\GitHub\VS\angelfx\coreangular-txtfiledb\TextSerializer\obj\Debug\netcoreapp2.2\TextSerializer.pdb
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextSerializer\bin\Debug\netcoreapp2.2\TextSerializer.deps.json
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextSerializer\bin\Debug\netcoreapp2.2\TextSerializer.dll
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextSerializer\bin\Debug\netcoreapp2.2\TextSerializer.pdb
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextSerializer\obj\Debug\netcoreapp2.2\TextSerializer.csprojAssemblyReference.cache
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextSerializer\obj\Debug\netcoreapp2.2\TextSerializer.csproj.CoreCompileInputs.cache
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextSerializer\obj\Debug\netcoreapp2.2\TextSerializer.AssemblyInfoInputs.cache
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextSerializer\obj\Debug\netcoreapp2.2\TextSerializer.AssemblyInfo.cs
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextSerializer\obj\Debug\netcoreapp2.2\TextSerializer.dll
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextSerializer\obj\Debug\netcoreapp2.2\TextSerializer.pdb
