@@ -18,12 +18,14 @@ namespace ArrayClient
 
         public IConfiguration Configuration { get; }
 
+        readonly string MyAllowSpecificOrigins = "MyPolicy";
+
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddTransient<IArrayRepository, FileRepository>();
 
-            services.AddCors(o => o.AddPolicy("MyPolicy", builder =>
+            services.AddCors(o => o.AddPolicy(MyAllowSpecificOrigins, builder =>
             {
                 builder.AllowAnyOrigin()
                        .AllowAnyMethod()
@@ -53,6 +55,8 @@ namespace ArrayClient
 
             app.UseStaticFiles();
             app.UseSpaStaticFiles();
+
+            app.UseCors(MyAllowSpecificOrigins); //Надо ставить перед UseMvc
 
             app.UseMvc(routes =>
             {
