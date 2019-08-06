@@ -1,0 +1,17 @@
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextDbApi\bin\Debug\netcoreapp2.2\TextDbApi.deps.json
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextDbApi\bin\Debug\netcoreapp2.2\TextDbApi.runtimeconfig.json
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextDbApi\bin\Debug\netcoreapp2.2\TextDbApi.runtimeconfig.dev.json
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextDbApi\bin\Debug\netcoreapp2.2\TextDbApi.dll
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextDbApi\bin\Debug\netcoreapp2.2\TextSerializer.dll
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextDbApi\bin\Debug\netcoreapp2.2\TextSerializer.pdb
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextDbApi\obj\Debug\netcoreapp2.2\TextDbApi.csprojAssemblyReference.cache
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextDbApi\obj\Debug\netcoreapp2.2\TextDbApi.csproj.CoreCompileInputs.cache
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextDbApi\obj\Debug\netcoreapp2.2\TextDbApi.RazorAssemblyInfo.cache
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextDbApi\obj\Debug\netcoreapp2.2\TextDbApi.RazorAssemblyInfo.cs
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextDbApi\obj\Debug\netcoreapp2.2\TextDbApi.AssemblyInfoInputs.cache
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextDbApi\obj\Debug\netcoreapp2.2\TextDbApi.AssemblyInfo.cs
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextDbApi\obj\Debug\netcoreapp2.2\TextDbApi.RazorTargetAssemblyInfo.cache
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextDbApi\obj\Debug\netcoreapp2.2\TextDbApi.csproj.CopyComplete
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextDbApi\bin\Debug\netcoreapp2.2\TextDbApi.pdb
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextDbApi\obj\Debug\netcoreapp2.2\TextDbApi.dll
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextDbApi\obj\Debug\netcoreapp2.2\TextDbApi.pdb

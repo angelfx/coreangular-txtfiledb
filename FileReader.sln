@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextSerializer", "TextSeria
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayClient", "ArrayClient\ArrayClient.csproj", "{86497BC5-35CC-42EF-920F-B36FAC69571D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextDbApi", "TextDbApi\TextDbApi.csproj", "{657BCF90-7CB7-49C0-BEDF-0B5879F4F857}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{86497BC5-35CC-42EF-920F-B36FAC69571D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86497BC5-35CC-42EF-920F-B36FAC69571D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86497BC5-35CC-42EF-920F-B36FAC69571D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{657BCF90-7CB7-49C0-BEDF-0B5879F4F857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657BCF90-7CB7-49C0-BEDF-0B5879F4F857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657BCF90-7CB7-49C0-BEDF-0B5879F4F857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657BCF90-7CB7-49C0-BEDF-0B5879F4F857}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

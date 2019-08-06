@@ -24,3 +24,4 @@ C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextSerializer\obj\Debug\netcore
 C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextSerializer\obj\Debug\netcoreapp2.2\TextSerializer.AssemblyInfo.cs
 C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextSerializer\obj\Debug\netcoreapp2.2\TextSerializer.dll
 C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextSerializer\obj\Debug\netcoreapp2.2\TextSerializer.pdb
+C:\GitHub\angelfx\angelfx\coreangular-txtfiledb\TextSerializer\obj\Debug\netcoreapp2.2\TextSerializer.csprojAssemblyReference.cache

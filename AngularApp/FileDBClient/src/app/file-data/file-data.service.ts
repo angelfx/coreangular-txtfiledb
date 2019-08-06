@@ -7,7 +7,7 @@ import { RowModel } from './row-model';
 @Injectable()
 export class DataService {
 
-  private url = "http://localhost:21881";
+  private url = "http://localhost:49236";
   private urlArray = this.url + "/api/ArrayData";
   private urlFile = this.url + "/api/File";
   //private url2 = "/api/apartments/getpaged2";
